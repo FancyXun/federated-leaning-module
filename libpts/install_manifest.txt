@@ -1,0 +1,16 @@
+/usr/local/lib/libhcs.so
+/usr/local/include/libhcs++/pcs_t.hpp
+/usr/local/include/libhcs++/pcs.hpp
+/usr/local/include/libhcs++/djcs_t.hpp
+/usr/local/include/libhcs++/random.hpp
+/usr/local/include/libhcs++/egcs.hpp
+/usr/local/include/libhcs++/djcs.hpp
+/usr/local/include/libhcs.h
+/usr/local/include/libhcs++.hpp
+/usr/local/include/libhcs/hcs_shares.h
+/usr/local/include/libhcs/pcs.h
+/usr/local/include/libhcs/egcs.h
+/usr/local/include/libhcs/djcs_t.h
+/usr/local/include/libhcs/pcs_t.h
+/usr/local/include/libhcs/djcs.h
+/usr/local/include/libhcs/hcs_random.h

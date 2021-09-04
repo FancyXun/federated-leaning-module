@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -Wall -Wextra -std=c++11 -g  -rdynamic CMakeFiles/test_pcs.dir/test/test_pcs.cpp.o  -o bin/test_pcs -Wl,-rpath,/home/zhangxun/code/tensorflow_federated/third_party/libpts/lib:/usr/local/lib lib/libhcs.so /usr/local/lib/libgmp.so -lgmpxx 
